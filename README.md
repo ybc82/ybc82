@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My interest and work experience include: drones, wheeled robots, legged robots. I've worked on the fields of control, localization, embedded, etc.
 <!--
 **ybc82/ybc82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
