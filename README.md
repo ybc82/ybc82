@@ -1,6 +1,6 @@
-### Hi there 👋
+### YBC's Github
 
-My interest and work experience include: drones, wheeled robots, legged robots. I've worked on the fields of control, localization, embedded, etc.
+My interest and work experience include: drones, wheeled robots, legged robots. I mainly focused on the fields of control & localization. I design the algorithms and write real-time embedded software.
 <!--
 **ybc82/ybc82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
